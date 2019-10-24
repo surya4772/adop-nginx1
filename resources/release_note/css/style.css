@@ -75,7 +75,7 @@ a {
   position: relative;
   height: 200px;
   overflow: hidden;
-  background-color: #026002; }
+  background-color: #aeabab; }
   #header .header-cover {
     display: block;
     position: relative;
@@ -86,7 +86,7 @@ a {
       position: absolute;
       left: 0px;
       top: 0px;
-      width: 55%;
+      width: 65%;
       height: 100%;
       padding: 2% 8% 2% 4%;
       background-image: url("../img/cover2.png");
@@ -103,19 +103,19 @@ a {
         color: white; }
       #header .header-cover .header-intro .header-button {
         padding: 13px;
-        background-color: #282928;
+        background-color: #005696;
         border-radius: 3px;
         display: block;
         width: 50%;
         text-align: center;
         text-decoration: none; }
         #header .header-cover .header-intro .header-button:hover {
-          background-color: #747674; }
+          background-color: #005696; }
     #header .header-cover .header-teasers {
       position: absolute;
       right: 0px;
-      top: 0px;
-      width: 45%;
+      top: 22%;
+      /* width: 45%; */
       height: 100%;
       padding-left: 3%; }
       #header .header-cover .header-teasers .other-info {
@@ -228,7 +228,7 @@ MAIN CONTENT
 
 #blueprints {
   padding: 60px 0;
-  border-top: 3px solid #00a000; }
+  border-top: 3px solid #767975; }
   #blueprints .blueprint-separator {
     width: 100%;
     margin-top: 40px;
