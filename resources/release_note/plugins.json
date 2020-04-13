@@ -18,6 +18,13 @@
                         "link": "/gitlab/"
                     },
                     {
+                        "id": "svn",
+                        "title": "svn",
+                        "img": "img/svn.png",
+                        "description": "subversion Repository Manager",
+                        "link": "/svn/"
+                    },
+                    {
                         "id": "sonar",
                         "title": "sonar",
                         "img": "img/sonar.png",
